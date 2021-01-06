@@ -25,6 +25,7 @@
 The <abbr title="Neko-chxn API">REST API</abbr> for Bot Developer
 Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 </p>
+
 > ["API"](https://api.neko-chxn.xyz/ "Neko-chxn API")
 > ["Astronyia"](https://astronyia.xyz/ "Astronyia")
 
@@ -37,4 +38,4 @@ Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 
 
 <h3 align="center">API Usage</h2>
-<p align="center">`$ npm i neko-chxn`</p>
+`$ npm i neko-chxn`
