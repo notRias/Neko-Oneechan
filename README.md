@@ -1,6 +1,6 @@
 # Welcome to Mei-chan Profile
 
-![](https://cdn.discordapp.com/attachments/779691035268874302/796355882795532288/superthumb_17.png)
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/attachments/779691035268874302/796367344402038784/tenor.gif">
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
