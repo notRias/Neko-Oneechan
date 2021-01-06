@@ -9,11 +9,13 @@
 </p>
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neko-Oneechan&count_private=true&theme=midnight-purple" />
+</a>
+
 <p align="center">
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=Neko-Oneechan&count_private=true&theme=midnight-purple)
-</p>
-<p align="center">
-**MY WORKS AND PROJECTS**
+<b>MY WORKS AND PROJECTS</b>
 </p>
 
 <h2 align="center">My Webpages</h2>
@@ -26,8 +28,10 @@ The <abbr title="Neko-chxn API">REST API</abbr> for Bot Developer
 Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 </p>
 
+
 > ["API"](https://api.neko-chxn.xyz/ "Neko-chxn API")
 > ["Astronyia"](https://astronyia.xyz/ "Astronyia")
+
 
 <h3 align="center">My Webpages</h3>
 
@@ -38,4 +42,5 @@ Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 
 
 <h3 align="center">API Usage</h2>
+
 `$ npm i neko-chxn`
