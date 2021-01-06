@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+<a href="https://discord.gg/yE6CgQZzr2">Join Discord        </a>
 <img alt="Discord" src="https://img.shields.io/discord/779689684690272286?color=%23000000&label=Discord&logo=Discord&logoColor=%236300bf&style=for-the-badge">
 </p>
 
