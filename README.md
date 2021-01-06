@@ -1,11 +1,14 @@
 # Welcome to Mei-chan Profile
 
 <p align="center">
-  <img width="460" height="460" src="https://cdn.discordapp.com/attachments/779691035268874302/796367344402038784/tenor.gif">
+  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/779691035268874302/796367344402038784/tenor.gif">
+</p>
+
+<p align="center">
+<img alt="Discord" src="https://img.shields.io/discord/779689684690272286?color=%23000000&label=Discord&logo=Discord&logoColor=%236300bf&style=for-the-badge">
 </p>
 
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=Neko-Oneechan&count_private=true&theme=midnight-purple)
 
