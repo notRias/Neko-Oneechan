@@ -1,16 +1,31 @@
-### Hi there 👋
+# Welcome to Mei-chan Profile
 
-<!--
-**Neko-Oneechan/Neko-Oneechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://cdn.discordapp.com/attachments/779691035268874302/796355882795532288/superthumb_17.png)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](](https://img.shields.io/bower/v/editor.md.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**MY WORKS AND PROJECTS**
+
+
+#### My Webpages
+
+**Make with Pain and Time**
+
+The <abbr title="Neko-chxn API">REST API</abbr> for Bot Developer
+Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
+
+> ["API"](https://api.neko-chxn.xyz/ "Neko-chxn API")
+> ["Astronyia"](https://astronyia.xyz/ "Astronyia")
+
+###Links to all Lages
+
+[Astronyia](https://astronyia.xyz/)
+
+[Neko-chxn Bot](http://neko-chxn.xyz/)
+
+[Neko-chxn API](https://api.neko-chxn.xyz/)
+
+####For API Useage
+
+`$ npm i neko-chxn`
