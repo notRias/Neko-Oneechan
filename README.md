@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=Neko-Oneechan&count_private=true)
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=Neko-Oneechan&count_private=true&theme=midnight-purple)
 
 **MY WORKS AND PROJECTS**
 
