@@ -4,6 +4,7 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=Neko-Oneechan&count_private=true)
 
 **MY WORKS AND PROJECTS**
 
@@ -18,7 +19,7 @@ Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 > ["API"](https://api.neko-chxn.xyz/ "Neko-chxn API")
 > ["Astronyia"](https://astronyia.xyz/ "Astronyia")
 
-###Links to all Lages
+### Links to all Lages
 
 [Astronyia](https://astronyia.xyz/)
 
