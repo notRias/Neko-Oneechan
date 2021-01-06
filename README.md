@@ -18,11 +18,13 @@
 <b>MY WORKS AND PROJECTS</b>
 </p>
 
+
 <h2 align="center">My Webpages</h2>
 
-<p align="center">
-**Make with Pain and Time**
-</p>
+<div class="border border-black-fade bg-red-light p-2 mb-2">
+  I like js alot
+</div>
+
 <p align="center">
 The <abbr title="Neko-chxn API">REST API</abbr> for Bot Developer
 Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
