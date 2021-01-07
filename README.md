@@ -4,8 +4,9 @@
   <img width="300" height="300" src="https://cdn.discordapp.com/attachments/779691035268874302/796367344402038784/tenor.gif">
 </p>
 
+<p align="center"><a href="https://discord.gg/yE6CgQZzr2" >Join Discord</a></p></div>
+
 <p align="center">
-<a href="https://discord.gg/yE6CgQZzr2">Join Discord        </a>
 <img alt="Discord" src="https://img.shields.io/discord/779689684690272286?color=%23000000&label=Discord&logo=Discord&logoColor=%236300bf&style=for-the-badge">
 </p>
 
