@@ -45,6 +45,6 @@ Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 <div class="text-gray mb-2"><p align="center"><a href="https://astronyia.xyz/" >Astronyia</a></p></div>
 
 
-<h3 align="center">API Usage</h2>
+<h3 align="center">API Usage</h2>Hi
 
 `$ npm i neko-chxn`
